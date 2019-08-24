@@ -25,7 +25,7 @@ USAGE=$(cat <<-END
 SetHandler "proxy:unix:/var/run/php/php7.3-fpm.sock|fcgi://localhost/" \n
 </FilesMatch> \n
 ServerName $sitename.local \n
-ServerAdmin wit.paw4@gmail.com \n
+ServerAdmin youraddressemail@gmail.com \n
 DocumentRoot /var/www/$sitename/ \n
 </VirtualHost> \n
 END
