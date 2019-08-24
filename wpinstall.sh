@@ -6,8 +6,8 @@ dbhost='localhost'
 wwwpath='/var/www/'
 ip='127.0.0.1 '
 wpuser=admin
-wppass=wilk44
-email=wit.paw4@gmail.com
+wppass=admin
+email=youraddressemail@gmail.com
 
 sufixlocal='.local'
 prefixhttp='http://'
