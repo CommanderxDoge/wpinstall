@@ -1,5 +1,7 @@
 # wpinstall
-automatic installation of wordpress on LAMP
+automatic wordpress instalator on LAMP. It installs wordpress, database and sets enviroment to start themedevelopment from scratch.
+
+After that I highly recommend to checkout "npx wpgulp" from npm.
 
 #dependencies:
 - wp-cli
