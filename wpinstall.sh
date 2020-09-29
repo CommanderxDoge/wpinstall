@@ -1,6 +1,7 @@
 # #!/bin/bash
+#after instalation of ur mysql and wpcli change to fill ur credentials
 sitename=$1
-dbuser='root'
+dbuser='witek'
 dbpass='witek'
 dbhost='localhost'
 wwwpath='/var/www/'
